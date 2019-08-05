@@ -10,6 +10,7 @@ namespace HomeWork2
     {
         static void Main(string[] args)
         {
+            Task1.Processing();
         }
     }
 }
