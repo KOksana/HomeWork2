@@ -18,7 +18,7 @@ namespace HomeWork2
                 switch (taskNumber)
                 {
                     case 1:
-
+                        Task1.Processing();
                         break;
                     case 2:
                         Task2.Processing();
